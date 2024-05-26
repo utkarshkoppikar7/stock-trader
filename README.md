@@ -19,3 +19,8 @@
 9. Add price alerts on these stocks to get a notification for breakouts.
 
 10. These stocks will be valid only for next week, after that create a fresh list. 11.Keep the same stocks for next week if the price is just below breakout levels. 12.Work with dedication when the markets are closed.
+
+### Simpler Understanding
+
+1. Need to run weekly on weekends
+2. Select the stocks from the NIFTY 500 list which are above the 200 Day moving average.
